@@ -2,7 +2,7 @@
 
 # 👋 Hey there, I'm Md Tuhin Molla
 
-### 🎓 Aspiring ML Engineer | 🧠 Deep Learning Student | 📊 Data Science Enthusiast
+### 🎓 Aspiring Data Science | 🧠 Deep Learning Enthusiast
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=🔥+Building+Intelligent+Systems;📊+From+Raw+Data+to+Smart+Insights;🧠+Neural+Networks+%7C+NLP+%7C+Computer+Vision;🚀+Always+Learning%2C+Always+Coding)](https://git.io/typing-svg)
 
@@ -13,91 +13,25 @@
 ---
 
 ## 🎯 About Me
+I'm **Md Tuhin Molla**, a self-driven Data Science enthusiast transitioning into a career as a Machine Learning Engineer. My journey began with curiosity about how algorithms power the apps we use daily, and has evolved into a passion for building intelligent systems that solve real problems.
 
-```python
-class AspiringMLEngineer:
-    def __init__(self):
-        self.name = "Md Tuhin Molla"
-        self.role = "ML Student & Future Data Scientist"
-        self.status = "Learning and building ML projects"
-        self.passions = ["Machine Learning", "Deep Learning", "NLP", "Computer Vision"]
-        self.current_focus = "Building ML skills through hands-on projects"
-        self.goal = "Land my first ML Engineer role"
-        self.learning_philosophy = "Code → Experiment → Learn → Repeat"
+### 🌟 What Defines My Journey
 
-    def get_skills(self):
-        return {
-            "learning": ["Machine Learning", "Deep Learning", "Data Science"],
-            "languages": ["Python", "JavaScript", "C++", "Java"],
-            "ml_frameworks": ["PyTorch", "TensorFlow", "Scikit-learn"],
-            "data_tools": ["Pandas", "NumPy", "Matplotlib", "Seaborn"],
-            "nlp_tools": ["NLTK", "spaCy", "Transformers"],
-            "exploring": ["MLflow", "DVC", "Docker"],
-            "web_dev": ["Django", "HTML/CSS", "Tailwind CSS"],
-            "databases": ["MySQL", "MongoDB"],
-            "tools": ["Git", "Linux", "Jupyter"]
-        }
+**🔬 Learning Philosophy**: I believe in understanding concepts deeply—that's why I implement algorithms from scratch before using libraries.
 
-    def current_projects(self):
-        return [
-            "🔬 Learning Deep Learning through practical projects",
-            "📈 Building ML models from scratch and with frameworks",
-            "🗂️ Exploring data versioning concepts with DVC",
-            "🌐 Creating portfolio projects with Django",
-            "📊 Practicing Computer Vision techniques"
-        ]
-        
-    def seeking(self):
-        return "Junior ML Engineer or Data Scientist opportunities"
-```
+**🚀 Project-Driven Approach**: Every concept I learn gets applied in hands-on projects, from classical ML to deep neural networks.
 
----
+**🌐 Full-Stack Vision**: Combining ML expertise with web development to build complete, deployable solutions.
 
-## 🚀 What I'm Working On
+**📈 Growth Mindset**: The ML field evolves rapidly, and I embrace continuous learning as part of the excitement.
 
-<table>
-<tr>
-<td width="50%">
+### 🎯 Current Mission
+Building a strong foundation in ML/DL while creating a portfolio of real-world projects. Currently implementing neural networks from scratch, building NLP pipelines, and exploring MLOps tools like MLflow and DVC. Actively seeking opportunities to contribute to impactful AI solutions as a Junior ML Engineer or Data Scientist.
 
-### 🧠 Machine Learning & Deep Learning
 
-- **Classical ML Algorithms**: Regression, Classification, Clustering
-- **Neural Network Architectures**: CNNs, RNNs, Transformers
-- **NLP Projects**: Sentiment Analysis, Text Classification
-- **Computer Vision**: Image Classification, Object Detection
-- **Model Optimization**: Hyperparameter tuning, Performance metrics
-
-</td>
-<td width="50%">
-
-### 🛠 MLOps & Technical Skills
-
-- **Experiment Tracking**: MLflow for model versioning and metrics
-- **Data Versioning**: DVC for reproducible ML workflows
-- **Pipeline Automation**: CI/CD for ML model deployment
-- **Web Integration**: Django + ML model serving
-- **Research**: Reading papers, implementing algorithms
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 Current Learning Status
-
-```
-🧠 Deep Learning Mastery    ████████████████░░░░ 80%
-📊 Data Science Pipeline    ████████████████████ 95%
-🔤 NLP & Text Processing    ██████████████░░░░░░ 70%
-🖼️ Computer Vision          ████████░░░░░░░░░░░░ 40%
-🌐 ML Model Building        ██████████░░░░░░░░░░ 50%
-🗂️ DVC & Data Versioning    ████████░░░░░░░░░░░░ 40%
-📋 MLflow Experiment Track. ████████░░░░░░░░░░░░ 40%
-```
-
----
 <!-- 
+---
+
 ## 🚀 Projects
 
 Here are some of my learning-based projects and experiments:
