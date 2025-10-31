@@ -2,7 +2,7 @@
 
 # 👋 Hey there, I'm Md Tuhin Molla
 
-### 🎓 Aspiring Data Science | 🧠 Deep Learning Enthusiast
+### 🎓 Aspiring Data Science <!-- | 🧠 Deep Learning Enthusiast -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=🔥+Building+Machine+Learning+Model;📊+From+Raw+Data+to+Smart+Insights;🧠+Neural+Networks+%7C+NLP+%7C+Computer+Vision;🚀+Always+Learning%2C+Always+Coding)](https://git.io/typing-svg)
 
@@ -105,7 +105,7 @@ Here are some of my learning-based projects and experiments:
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+<!-- ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) -->
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
