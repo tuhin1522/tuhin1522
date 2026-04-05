@@ -2,7 +2,7 @@
 
 # 👋 Hey there, I'm Md Tuhin Molla
 
-### 🎓 Aspiring Data Science <!-- | 🧠 Deep Learning Enthusiast -->
+### 🎓 Aspiring AI Engineer <!-- | 🧠 Deep Learning Enthusiast -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=🔥+Building+Machine+Learning+Model;📊+From+Raw+Data+to+Smart+Insights;🧠+Neural+Networks+%7C+NLP+%7C+Computer+Vision;🚀+Always+Learning%2C+Always+Coding)](https://git.io/typing-svg)
 
